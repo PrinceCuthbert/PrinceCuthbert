@@ -1,6 +1,6 @@
 ## Hi there,I'm Cuthbert 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinnceCuthbert)](https://github.com/PrinecCuthbert/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceCuthbert)](https://github.com/PrinecCuthbert/github-readme-stats)
 
 
 <!--
