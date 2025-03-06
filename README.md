@@ -1,5 +1,8 @@
 ## Hi there,I'm Cuthbert 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinnceCuthbert)](https://github.com/PrinecCuthbert/github-readme-stats)
+
+
 <!--
 **PrinceCuthbert/PrinceCuthbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
