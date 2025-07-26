@@ -16,11 +16,6 @@
 
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-
-
-
-
-
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
