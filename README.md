@@ -12,6 +12,8 @@
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 
 
