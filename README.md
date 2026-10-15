@@ -1,5 +1,12 @@
 ## Hi there, I'm Cuthbert 👋
 
+### 📊 GitHub Activity & Language Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrinceCuthbert&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceCuthbert&layout=compact&theme=radical&hide=html,css&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ## 🛠️ Technical Skills & Technologies
 
@@ -51,6 +58,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+
 
 
  - 🔭 I’m currently working on Health App Project called Impano Hub.
